@@ -1,3 +1,5 @@
 import streamlit
 
-streamlit.title('My First Python Work')
+streamlit.title('My Parent''s New Healthy Diner')
+
+streamlit.title('Breafast Menu')
